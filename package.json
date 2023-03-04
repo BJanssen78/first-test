@@ -19,10 +19,11 @@
     "vite": "^4.1.0"
   },
   "description": "First test alone",
-  "main": "y",
+  "main": "first-test",
   "keywords": [
     "test"
   ],
   "author": "Ben Janssen",
+  "url": "http://www.bepeel.nl",
   "license": "MIT"
 }
